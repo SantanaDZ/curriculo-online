@@ -25,7 +25,7 @@ Sou Técnico de Informática na **Prefeitura de Belo Horizonte** e estou cursand
 
 Com foco nas principais linguagens de programação e tecnologias do mercado, estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 '''
-st.image('img/profile.jpeg', width=180)
+#st.image('img/profile.jpeg', width=180)
 #lottie_json = load_lottie_url("https://assets2.lottiefiles.com/packages/lf20_kkflmtur.json")
 #if lottie_json:
  #   st_lottie(lottie_json, height=300)
